@@ -45,4 +45,3 @@ ADDITIONAL NOTES:
 There are set delays in the code that make it sleep. You can change it to be faster/slower, depends on your requirements.
 Don't run this in a VM. It won't work as tor won't actually get you a new IP. You must run this on a native Linux computer.
 
-Please contact me through email (williamhyzhang@gmail.com) if you'd like to commission me for a project.
